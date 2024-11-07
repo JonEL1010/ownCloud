@@ -160,7 +160,7 @@ sudo chmod -R 775 .
 ```bash
 sudo chown -R usuario:www-data .
 ```
-<img src="messi.webp"
+<img src="Captura de pantalla 2024-11-07 202013.png"
 
 ## Accedim al navegador per veure que tot funciona
 
