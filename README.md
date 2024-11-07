@@ -160,7 +160,7 @@ sudo chmod -R 775 .
 ```bash
 sudo chown -R usuario:www-data .
 ```
-
+<img src="messi.webp"
 
 ## Accedim al navegador per veure que tot funciona
 
