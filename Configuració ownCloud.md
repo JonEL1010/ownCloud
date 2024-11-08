@@ -18,5 +18,4 @@ Despres vas al usuari que has afegit anteriorment i li poses el rol que has crea
 
 
 
-
 <img src="Captura desde 2024-11-08 14-21-16.png">
