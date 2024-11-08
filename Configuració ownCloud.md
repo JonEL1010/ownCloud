@@ -9,5 +9,5 @@ Primer tenim que crear un usuari
 
 ## Assignació de rols i permisos.
 
-Una vegada creem l'usuari, li donem un rol
-<img src="Captura desde 2024-11-08 14-00-45.png">
+Una vegada creem l'usuari, li donem un rol. Li donem al boto on posa +Add Group, poses el nom que tu vulguis (en el meu cas mod).
+<img src="Captura desde 2024-11-08 14-21-16.png">
