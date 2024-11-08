@@ -19,4 +19,3 @@ Auria de quedar aixi
 Captura desde 2024-11-08 14-29-15.png
 <img src="Captura desde 2024-11-08 14-29-15.png">
 
-<img src="Captura desde 2024-11-08 14-21-16.png">
