@@ -28,3 +28,8 @@ Per donar permisos hauras d'afegir un usuari que ja hem creat
 Dins dela carpeta li donarem al boto + i afegirem un arxiu amb el boto 'subidas'
 
 <img src="Captura de pantalla 2024-11-11 184844.png">
+
+Una vegada fet aixó, deuria de quedar de la seguent forma
+
+<img src="Captura de pantalla 2024-11-11 185805.png">
+
