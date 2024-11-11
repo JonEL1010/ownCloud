@@ -20,4 +20,9 @@ Auria de quedar aixi
 <img src="Captura desde 2024-11-08 14-29-15.png">
 
 Per donar permisos hauras d'afegir un usuari que ja hem creat
-<img src="Captura desde 2024-11-08 14-29-15.png">
+
+<img src="Captura de pantalla 2024-11-11 183640.png">
+
+Dins dela carpeta li donarem al boto + i afegirem un arxiu amb el boto 'subidas'
+
+<img src="Captura de pantalla 2024-11-11 183640.png">
