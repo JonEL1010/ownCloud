@@ -9,7 +9,7 @@ Primer tenim que crear un usuari
 
 Ara crearem un altre usuari amb els mateixos passos
 
-<img src="Captura desde 2024-11-08 14-00-45.png">
+<img src="">
 
 ## Assignació de rols i permisos.
 
@@ -38,3 +38,4 @@ Una vegada fet aixó, deuria de quedar de la seguent forma
 
 <img src="Captura de pantalla 2024-11-11 185805.png">
 
+Captura de pantalla de 2024-11-12 08-23-47.png
