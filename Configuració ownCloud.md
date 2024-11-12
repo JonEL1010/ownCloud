@@ -42,3 +42,10 @@ Captura de pantalla de 2024-11-12 08-23-47.png
 
 ## Accés des d’una màquina qualsevol de la xarxa
 
+Tenim que posar a la xarxa de la maquina virtual 'puigcastellar1'
+
+<img src="Captura de pantalla de 2024-11-12 08-23-47.png">
+
+Despres tenim que posar el seguent a la terminal
+
+<img src="Captura de pantalla de 2024-11-12 08-23-47.png">
