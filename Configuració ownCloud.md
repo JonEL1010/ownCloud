@@ -46,6 +46,10 @@ Tenim que posar a la xarxa de la maquina virtual 'puigcastellar1'
 
 <img src="Captura de pantalla de 2024-11-12 08-23-47.png">
 
-Despres tenim que posar el seguent a la terminal
+Despres tenim que posar el seguent a la terminal amb la contraseña usuario
 
-<img src="Captura de pantalla de 2024-11-12 08-23-47.png">
+<img src="Captura de pantalla de 2024-11-12 10-40-31.png">
+
+Per ultim quan li dones al enter auria de sortir aixó, on tenim que afegir la nostra IP
+
+<img src="Captura de pantalla de 2024-11-12 10-40-31.png">
