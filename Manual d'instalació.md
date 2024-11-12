@@ -175,6 +175,8 @@ contrasenya: password
 base de dades: bbdd
 domini: localhost
 
+## Configuració ownCloud
+
 En el seguent enllaç trobaras la
 [Configuració ownCloud](https://github.com/JonEL1010/ownCloud/blob/main/Configuraci%C3%B3%20ownCloud.md)
 
