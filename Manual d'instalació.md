@@ -176,7 +176,7 @@ base de dades: bbdd
 domini: localhost
 
 En el seguent enllaç trobaras la configucació d'ownCloud
-[Configuració ownCloud](https://github.com/JonEL1010/Inicial/blob/main/messi.md)
+[Configuració ownCloud](https://github.com/JonEL1010/ownCloud/blob/main/Configuraci%C3%B3%20ownCloud.md)
 
 
 
