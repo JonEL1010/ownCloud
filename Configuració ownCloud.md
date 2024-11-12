@@ -52,4 +52,4 @@ Despres tenim que posar el seguent a la terminal amb la contraseña usuario
 
 Per ultim quan li dones al enter auria de sortir aixó, on tenim que afegir la nostra IP
 
-<img src="Captura de pantalla de 2024-11-12 10-40-31.png">
+<img src="Captura de pantalla de 2024-11-12 10-41-44.jpg">
